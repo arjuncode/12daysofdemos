@@ -1,3 +1,5 @@
+
+
 # 🎄 12 Days of Demos: How Santa Uses Databricks
 
 **A holiday journey through the Databricks Data Intelligence Platform.**
@@ -34,6 +36,8 @@ Starting **December 8th, 2025**, we will release a hands-on demo highlighting a 
 | **12/19** | **Lakebase** | Sync your OLAP insights to serverless, managed Postgres from Databricks. |
 | **12/22** | **Databricks Apps** | Quickly build, deploy, and serve interactive applications. |
 | **12/23** | **AI/BI Dashboards** | Deliver enterprise-grade operational insights via Databricks One. |
+
+💡 **Tip:** Each day's demo materials are organized in numbered directories within this repository (e.g., `02-declarative-pipelines`, `06-genie`, `09-agent-bricks`, `11-apps`) to help you quickly find the corresponding code and notebooks.
 
 ---
 
